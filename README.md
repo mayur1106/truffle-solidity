@@ -7,7 +7,7 @@ Truffle requires [Node.js](https://nodejs.org/)
 Install the Truffle dependancy globally 
 
 ```sh
-npm install -g truflle 
+npm install -g truffle 
 ```
 #### Lets Dive into the setup 
 
