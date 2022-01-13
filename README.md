@@ -25,6 +25,13 @@ truffle init
 ```
 
 And here we have setup our first truffle project. 
+```sh
+Basic truffle Commands:
+  Compile:        truffle compile
+  Migrate:        truffle migrate
+  Test contracts: truffle test
+```
+
 
 You can learn more about the truffle on the following link 
 
